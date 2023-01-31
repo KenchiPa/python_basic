@@ -1,0 +1,5 @@
+print("Hello Kenchi")
+print("Hello Kenchi")
+print("Hello Kenchi")
+print("Hello Kenchi")
+print("Hello Kenchi")
