@@ -22,4 +22,6 @@ while True:
     print(data, end = "")
     if data == "":
         break
-file.close()
+file.close() 
+
+##
